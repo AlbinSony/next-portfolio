@@ -12,7 +12,7 @@ interface ExperienceItem {
 export default function Experience() {
   const experiences: ExperienceItem[] = [
     {
-      company: "Qmark Technolabs",
+      company: "qmark technolabs",
       position: "Software Developer Intern",
       duration: "January 2025 – May 2025",
       description: `Developed and deployed cutting-edge solutions, including multi-select preferences, 
@@ -23,7 +23,7 @@ export default function Experience() {
       logoUrl: "/qmark.png",
     },
     {
-      company: "Ieee Kerala Section",
+      company: "ieee kerala section",
       position: "Web Master",
       duration: "January 2023 – January 2024",
       description: `Developed and deployed cutting-edge solutions, including multi-select preferences, 

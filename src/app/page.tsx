@@ -70,7 +70,7 @@ export default function Home() {
                 ai
               </span>
               <span className="px-4 py-2 bg-neutral-100 dark:bg-neutral-800 text-neutral-800 dark:text-neutral-200 rounded-md text-sm md:text-base">
-                ui/ux
+                cybersecurity
               </span>
             </div>
             

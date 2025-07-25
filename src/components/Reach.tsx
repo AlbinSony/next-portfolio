@@ -7,27 +7,27 @@ export default function Reach() {
   const socialLinks: SocialLink[] = [
     {
       name: "twitter/x",
-      url: "https://twitter.com/code_kartik",
+      url: "https://twitter.com/albinsony_",
     },
     {
       name: "github",
-      url: "https://github.com/KartikLabhshetwar",
+      url: "https://github.com/AlbinSony",
     },
     {
       name: "linkedin",
-      url: "https://www.linkedin.com/in/kartikcode/",
+      url: "https://www.linkedin.com/in/albin-sony/",
     },
     {
-      name: "peerlist",
-      url: "https://peerlist.io/code_kartik",
+      name: "substack",
+      url: "https://albinsony.substack.com/",
     },
     {
       name: "say hello",
-      url: "mailto:kartik.labhshetwar@gmail.com",
+      url: "mailto:albinsonydev@gmail.com",
     },
     {
       name: "book a meet",
-      url: "https://cal.com/kartik-labhshetwar/15min",
+      url: "https://cal.com/albinsony/15min",
     },
   ];
 

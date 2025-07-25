@@ -6,7 +6,7 @@ import { useState } from "react";
 
 const projects = [
   {
-    title: "Mind Mentor AI",
+    title: "Feenix",
     description:
       "Mind Mentor is an innovative AI-powered study assistant designed to revolutionize the way students learn and prepare for exams.",
     liveLink: "https://mind-mentor-pearl.vercel.app/",
@@ -14,7 +14,7 @@ const projects = [
   },
 
   {
-    title: "SatyaCheck",
+    title: "EasyML",
     description:
       "SatyaCheck is a comprehensive fact-checking solution that helps users verify the authenticity of news articles and social media posts.",
     liveLink: "https://satya-check.vercel.app/",
@@ -22,26 +22,11 @@ const projects = [
   },
 
   {
-    title: "Donezo",
+    title: "WorkEase",
     description:
       "A modern web application that sends personalized weekly review emails in the style of tech visionaries like Elon Musk and Steve Jobs.",
     liveLink: "https://donezo-theta.vercel.app/",
     githubLink: "https://github.com/UmangAgarwal257/Donezo"
-  },
-
-  {
-    title: "LearnX",
-    description:
-      "LearnX is a course selling platform with integrated payment functionality.",
-    liveLink: "https://learnx-frontend.onrender.com/",
-    githubLink: "https://github.com/KartikLabhshetwar/LearnX"
-  },
-  {
-    title: "TaskMaster",
-    description:
-      "TaskMaster is a powerful, full-stack task management application. It features a dynamic Kanban board and a detailed task list view, offering users a comprehensive solution for organizing and tracking their tasks efficiently.",
-    liveLink: "https://task-management-dashboard-zeta.vercel.app/",
-    githubLink: "https://github.com/KartikLabhshetwar/task-management-dashboard"
   },
 ];
 
