@@ -12,6 +12,17 @@ interface ExperienceItem {
 export default function Experience() {
   const experiences: ExperienceItem[] = [
     {
+      company: "Cognizant",
+      position: "Full Stack Developer",
+      duration: "October 2025 – Present",
+      description: `Developed and deployed cutting-edge solutions, including multi-select preferences, 
+        browser-based video recording, and API integrations like WhatsApp/email reminders. 
+        Optimized workflows with autosave features and real-time scraping, 
+        leveraging Next.js, Supabase, and Cloudflare workers.`,
+      href: "https://qmarktechnolabs.com/",
+      logoUrl: "/qmark.png",
+    },
+    {
       company: "qmark technolabs",
       position: "Software Developer Intern",
       duration: "January 2025 – May 2025",
